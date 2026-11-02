@@ -1,0 +1,9 @@
+{
+  "_note": "This file is kept for reference only. All live data is stored in PostgreSQL on Railway.",
+  "destinations": [],
+  "schedule": {
+    "destinations": [],
+    "message": "",
+    "interval": 1200
+  }
+}
